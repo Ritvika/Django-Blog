@@ -1,0 +1,6 @@
+This is a blog site created in Django.
+
+The Databases section (mysite>settings.py) will have to be modified with username and password. I have used PostGRESQL. It may be changed to MySQL.
+
+References used:
+Videos on Introduction to Django by sentdex 
